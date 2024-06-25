@@ -3,11 +3,14 @@
  (♽ 0x267D) Austria
  (╷0x2577╷) Bangladesh
  (▱ 0x25B1) Belarus
+ (♚ 0x265A) Belgium
+ (£ 0x00A3) Brazil
  (▄ 0x2584) Britain/Canada
  (⛭ 0x26ED) Republic of China
  (␗ 0x2417) People's Republic of China
  (0x2547) Cuba
  (⚚ 0x269A) Czechoslovakia
+ (〸 0x3038) Denmark
  (¤ 0x00A4) Egypt
  (⛮ 0x26EE) Finland
  (☨ 0x2628) France
@@ -21,9 +24,10 @@
  ( 0xF059) Israel
  (╝ 0x255D) Italy
  (▅ 0x2585) Japan
- (┢0x2522┢┢┢) J┢ordan
+ (┢ 0x2522) Jordan
  (☯ 0x262F) Republic of Korea
  (▆ 0x2586) Democratic People's Republic of Korea
+ (◎ 0x2B57) Kuwait
  (‡ 0x2021) Lithuania
  (⛛ 0x26DB) Netherlands
  (≥ 0x2265) Norway
@@ -37,8 +41,8 @@
  (⚔ 0x2694) Saudi Arabia
  (⛉ 0x26C9) Slovakia
  (⋟ 0x22DF) South Africa
- (⛝0x26DD) Spain
- (♚ 0x265A) Sweden
+ (⛝ 0x26DD) Spain
+ (♛ 0x265B) Sweden
  (◌ 0x25CC) Switzerland
  (⚇ 0x2687) Syria
  (⚌ 0x268C) Thailand
