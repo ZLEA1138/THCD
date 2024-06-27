@@ -27,9 +27,10 @@
  (┢ 0x2522) Jordan
  (☯ 0x262F) Republic of Korea
  (▆ 0x2586) Democratic People's Republic of Korea
- (◎ 0x2B57) Kuwait
+ (⛒ 0x26D2) Kuwait
  (‡ 0x2021) Lithuania
- (⛛ 0x26DB) Netherlands
+ (◗ 0x25D7) Netherlands (pre-1940)
+ (◘ 0x25D8) Netherlands (1940-present)
  (≥ 0x2265) Norway
  (╥ 0x2565) Oman
  (☪ 0x262A) Pakistan
@@ -63,6 +64,7 @@
  (▴ 0x25B4) Pirate
  (♈ 0x2648) House of Bull
  (☤ 0x2624) House of Hawk
+ (▊ ) Mad Thunder
  (⋭ 0x22ED) Space
  (☢ 0x2622) Nuclear
  (╊ 0x254A) WT Mobile Promo
