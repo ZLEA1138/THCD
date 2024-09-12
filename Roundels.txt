@@ -14,7 +14,7 @@
  (¤ 0x00A4) Egypt
  (⛮ 0x26EE) Finland
  (☨ 0x2628) France
- (▀0x2580) Nazi Germany
+ (▀ 0x2580) Nazi Germany
  (◄ 0x25C4) Germany/West Germany
  (◊ 0x25CA) East Germany
  (Σ 0x03A3) Greece
