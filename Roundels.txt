@@ -39,7 +39,7 @@
  (⋠ 0x22E0) Poland
  (☩ 0x2629) Portugol
  (═ 0x2550) Rhodesia
- (╏╏0x254F) Romania
+ (╏ 0x254F) Romania
  (⚔ 0x2694) Saudi Arabia
  (⛉ 0x26C9) Slovakia
  (⋟ 0x22DF) South Africa
