@@ -8,6 +8,7 @@
  (▄ 0x2584) Britain/Canada
  (⛭ 0x26ED) Republic of China
  (␗ 0x2417) People's Republic of China
+ (◡ 0x25E1) Colombia
  (0x2547) Cuba
  (⚚ 0x269A) Czechoslovakia
  (〸 0x3038) Denmark
