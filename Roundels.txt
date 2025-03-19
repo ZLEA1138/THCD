@@ -1,7 +1,7 @@
  (⛯ 0x26EF) Argentina
  (╨ 0x2568) Australia/New Zealand
  (♽ 0x267D) Austria
- (╷0x2577╷) Bangladesh
+ (╷ 0x2577) Bangladesh
  (▱ 0x25B1) Belarus
  (♚ 0x265A) Belgium
  (£ 0x00A3) Brazil
@@ -33,7 +33,7 @@
  (‡ 0x2021) Lithuania
  (◗ 0x25D7) Netherlands (pre-1940)
  (◘ 0x25D8) Netherlands (1940-present)
- (≥ 0x2265) Norway
+ (◢ 0x2265) Norway
  (╥ 0x2565) Oman
  (☪ 0x262A) Pakistan
  (♢ 0x2662) Philippines
