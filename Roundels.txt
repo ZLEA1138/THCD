@@ -21,6 +21,7 @@
  (Σ 0x03A3) Greece
  (◔ 0x25D4) Hungary
  (☸ 0x2638) India
+ (◥ 0x25E5) Indonesia
  (☫ 0x262B) Iran
  (♣ 0x2663) Ireland
  ( 0xF059) Israel
