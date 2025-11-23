@@ -54,6 +54,7 @@
  (♆ 0x2646) Ukraine
  (▃ 0x2583) USA
  (▂ 0x2582) USSR/Russia
+ (☊ 0x260A) Venezuela
  (▪ 0x25AA) Socialist Republic of  Vietnam
  (☰ 0x2630) Republic of Vietnam
 
@@ -71,5 +72,6 @@
  (⋭ 0x22ED) Space
  (☢ 0x2622) Nuclear
  (╊ 0x254A) WT Mobile Promo
+ (◍ 0x25CD) Senrai Maidens
 
 https://docs.google.com/spreadsheets/d/1RtU6diTeeFnM2C8UUa0Ah2lrYioWH5B3nWHQhUdmd3s/edit#gid=985474341
