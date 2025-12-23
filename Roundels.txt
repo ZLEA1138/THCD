@@ -32,6 +32,7 @@
  (▆ 0x2586) Democratic People's Republic of Korea
  (⛒ 0x26D2) Kuwait
  (‡ 0x2021) Lithuania
+ (☀ 0x2600) Malaysia
  (◗ 0x25D7) Netherlands (pre-1940)
  (◘ 0x25D8) Netherlands (1940-present)
  (◢ 0x2265) Norway
