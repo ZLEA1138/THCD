@@ -14,7 +14,8 @@
  (〸 0x3038) Denmark
  (¤ 0x00A4) Egypt
  (⛮ 0x26EE) Finland
- (☨ 0x2628) France
+ (⚜ 0x269C) France
+ (☨ 0x2628) France (Free French forces)
  (▀ 0x2580) Nazi Germany
  (◄ 0x25C4) Germany/West Germany
  (◊ 0x25CA) East Germany
@@ -23,7 +24,7 @@
  (☸ 0x2638) India
  (◥ 0x25E5) Indonesia
  (☫ 0x262B) Iran
- (♣ 0x2663) Ireland
+ (☘ 0x2618) Ireland
  ( 0xF059) Israel
  (╝ 0x255D) Italy
  (▅ 0x2585) Japan
@@ -41,9 +42,11 @@
  (♢ 0x2662) Philippines
  (⋠ 0x22E0) Poland
  (☩ 0x2629) Portugol
- (═ 0x2550) Rhodesia
+ (║ 0x2551) Rhodesia
  (╏ 0x254F) Romania
  (⚔ 0x2694) Saudi Arabia
+ (┍ 0x250D) Serbia
+ (═ 0x2550) Singapore
  (⛉ 0x26C9) Slovakia
  (⋟ 0x22DF) South Africa
  (⛝ 0x26DD) Spain
@@ -62,7 +65,7 @@
 ---
 
  (␠ 0x2420) Animal
- (╍0x254D) Thunder League
+ (╍ 0x254D) Thunder League
  (▹ 0x25B9) Twitch
  (⋨ 0x22E8) Football
  (␙ 0x2419) YouTube Cup
