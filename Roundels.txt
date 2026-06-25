@@ -77,5 +77,7 @@
  (☢ 0x2622) Nuclear
  (╊ 0x254A) WT Mobile Promo
  (◍ 0x25CD) Senrai Maidens
+ (⛬ 0x26EC) The Corporation
+ (⚲ 0x26B2) Sacred Tree Defense Force
 
 https://docs.google.com/spreadsheets/d/1RtU6diTeeFnM2C8UUa0Ah2lrYioWH5B3nWHQhUdmd3s/edit#gid=985474341
