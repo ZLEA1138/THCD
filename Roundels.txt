@@ -48,6 +48,7 @@
  (┍ 0x250D) Serbia
  (═ 0x2550) Singapore
  (⛉ 0x26C9) Slovakia
+ (☓ 0x2613) Somaliland
  (⋟ 0x22DF) South Africa
  (⛝ 0x26DD) Spain
  (♛ 0x265B) Sweden
