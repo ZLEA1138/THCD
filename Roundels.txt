@@ -9,7 +9,7 @@
  (⛭ 0x26ED) Republic of China
  (␗ 0x2417) People's Republic of China
  (◡ 0x25E1) Colombia
- (0x2547) Cuba
+ (╇ 0x2547) Cuba
  (⚚ 0x269A) Czechoslovakia
  (〸 0x3038) Denmark
  (¤ 0x00A4) Egypt
@@ -73,7 +73,7 @@
  (▴ 0x25B4) Pirate
  (♈ 0x2648) House of Bull
  (☤ 0x2624) House of Hawk
- (▊ ) Mad Thunder
+ (▊ 0x258A) Mad Thunder
  (⋭ 0x22ED) Space
  (☢ 0x2622) Nuclear
  (╊ 0x254A) WT Mobile Promo
