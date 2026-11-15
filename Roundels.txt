@@ -57,6 +57,7 @@
  (⚌ 0x268C) Thailand
  (☐ 0x2610) Turkey
  (♆ 0x2646) Ukraine
+ (╋ 0x254B) UAE
  (▃ 0x2583) USA
  (▂ 0x2582) USSR/Russia
  (☊ 0x260A) Venezuela
